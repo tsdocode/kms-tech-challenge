@@ -73,8 +73,8 @@ Example:
 
 **1.2 Install Library**
 ```
-git clone 
-cd 
+git clone https://github.com/tsdocode/kms-tech-challenge.git
+cd kms-tech-challenge
 pip install -r requirements.txt
 ```
 
